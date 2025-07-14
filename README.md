@@ -1,10 +1,10 @@
 # Courses Flowchart
 
-Use it live at: https://gremio-eci.github.io/grade
+Use it live at: https://gui-cordeiro.github.io/grade-controle/
 
 Interactive flowchart to keep track of your progress throughout the courses you take in university.
 
-The example portrayed here is related to the Federal University of Rio de Janeiro's Computer Engineering undergrad.
+The example portrayed here is related to the Federal University of Rio de Janeiro's Controls and Automation Engineering undergrad.
 
 ## Usage
 
